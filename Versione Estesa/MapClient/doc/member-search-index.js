@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"MapClient","c":"MainTest","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"MapClient","c":"MainTest","l":"MainTest()","u":"%3Cinit%3E()"}];updateSearchResults();
